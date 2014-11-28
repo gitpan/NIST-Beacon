@@ -5,7 +5,7 @@ package NIST::Beacon;
 use strict;
 use warnings;
 
-our $VERSION = "1.000";
+our $VERSION = "1.001";
 
 use Moo;
 use XML::Simple;
@@ -86,7 +86,7 @@ NIST::Beacon - A Perl module for querying NIST's randomness beacon.
 
 =head1 VERSION
 
-version 1.000
+version 1.001
 
 =head1 SYNOPSIS
 

@@ -43,7 +43,7 @@ NIST::Beacon::Record - A Record object used by NIST::Beacon to represent receive
 
 =head1 VERSION
 
-version 1.000
+version 1.001
 
 =head1 SYNOPSIS
 
